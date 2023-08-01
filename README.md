@@ -1,51 +1,39 @@
-### Hi there 👋
+# Hello! 👋 I'm Nahuel.
 
-Who am I?
+I am a passionate Full Stack Developer and Programmer Analyst, with a background in Computer Engineering. I have a strong ability to adapt quickly and learn new technologies and languages on the go.
 
-I am a Full Stack Developer student and Programmer Analysis student, and I was studying computer engeeniring, with the ability to adapt and
-learn new technologies and languages on the go. 🔭 I'm also developing a Rick and Morty web page.
+## Education 🎓
 
-🤔 I'm actually looking for my first programming job to keep learning, growing and showing my skills.
+Studied Full Stack Development at Henry Bootcamp during this year.
+Currently pursuing System Analysis at ORT Argentina.
+Previously studied Informatics Engineering at Universidad de Buenos Aires (UBA).
 
-Skills:
+## Projects 🚀
 
-Frontend:
-<p>   
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/xzF6WQF/python.webp" alt="Python" height="50" /></a>  
-</p>
+### Rick and Morty Web Page
+I've been working on a web page dedicated to the popular show Rick and Morty. The project involved using React, Redux, and pure CSS for frontend development. On the backend, I utilized Express.js and Sequelize to manage data. It was an incredible learning experience, and I'm proud to have completed it!
 
-Java C C++ Smalltalk
+### Dog Project
 
-----------------------------------------------------------------------------------
-¿Quién soy?
+I also took on a solo project centered around dogs. Similar to the Rick and Morty web page, I used React, Redux, and pure CSS for frontend development. On the backend, I implemented Express.js and Sequelize. This project allowed me to further enhance my skills and knowledge as a developer.
 
-Soy estudiante Full Stack y analista en sistema, y fui estudiante en Ingeniería en informática, con la habilidad de adaptarme y aprender nuevas
-tecnologías y lenguajes. 🔭 Estoy desarrollando una página web sobre Rick y Morty.
+### E-Commerce Project
 
+Recently, I had the opportunity to work on an exciting e-commerce project called Bodu Games. On the backend, we leveraged Express, Node.js, and Sequelize to handle data and business logic. For the frontend, we used Vite + React, Redux, and Chakra UI, complemented by pure CSS. The collaborative effort taught me the value of teamwork and communication in a development environment.
 
+## Goals and Aspirations 🌟
 
-🤔 Estoy buscando mi primer trabajo relacionado con programación para poder seguir aprendiendo, creciendo y mostrando mis habilidades.
+I am actively seeking my first programming job to apply and expand my expertise. My journey as a developer has been incredible so far, and I am eager to continue learning, growing, and contributing to meaningful projects. I'm open to new opportunities and challenges that allow me to showcase my skills and contribute to innovative solutions.
 
-Hablilidades:
+## Get in Touch 📞
 
-Frontend:
+I'm excited to connect with fellow developers, potential employers, and collaborators. Whether you want to discuss a project or just say hi, feel free to reach out to me through the following channels:
 
-<p>   
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/xzF6WQF/python.webp" alt="Python" height="50" /></a>  
-</p>
+Email: nahuellescano1012@gmail.com
 
-Java C C++ Smalltalk
-
+LinkedIn: [Nahuel Lescano](https://www.linkedin.com/in/nahuel-lescano-906a2618b/ "LinkedIn Profile")
+<!--Portfolio: yourportfolio.com-->
+Thank you for visiting my GitHub profile. Happy coding! 😄
 <!--
 **NahuelLescano/NahuelLescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
