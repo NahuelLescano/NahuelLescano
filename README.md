@@ -1,51 +1,79 @@
-# Hello! 👋 I'm Nahuel.
+# 👋 Hello! I'm Nahuel Lescano
 
-I am a passionate Full Stack Developer and Programmer Analyst, with a background in Computer Engineering. I have a strong ability to adapt quickly and learn new technologies and languages on the go.
+I’m a passionate **Full Stack Developer** and **Programmer Analyst**, currently pursuing a **Bachelor’s Degree in Computer Engineering** at Universidad de Palermo (expected graduation: 2030) and holding a degree in **Systems Analysis** from ORT Argentina.  
+I thrive on building modern, efficient, and user-friendly applications, with a strong focus on **React.js**, clean code, and collaborative workflows.
 
-## Education 🎓
+---
 
-Studied Full Stack Development at Henry Bootcamp during this year.
-Currently pursuing System Analysis at ORT Argentina.
-Previously studied Informatics Engineering at Universidad de Buenos Aires (UBA).
+## 🎓 Education
+- **B.S. in Computer Engineering** – Universidad de Palermo *(2025 – 2030, in progress)*
+- **Systems Analyst** – ORT Argentina *(2022 – 2024)*
+- **Full Stack Web Developer** – Henry Bootcamp *(800+ hours of hands-on coding)*
 
-## Projects 🚀
+---
 
-### Rick and Morty Web Page
-I've been working on a web page dedicated to the popular show Rick and Morty. The project involved using React, Redux, and pure CSS for frontend development. On the backend, I utilized Express.js and Sequelize to manage data. It was an incredible learning experience, and I'm proud to have completed it!
+## 🛠️ Skills & Technologies
 
-### Dog Project
+**Frontend:** React.js, Redux, React Router, Context API, Hooks, Tailwind CSS, Chakra UI, CSS-in-JS, SASS, HTML5, CSS3  
+**Backend:** Node.js, Express.js, Sequelize  
+**Databases:** PostgreSQL, MySQL, SQL Server, SQLite  
+**Testing:** Jest, React Testing Library, Cypress  
+**Tools:** Git, GitHub, Vite, Webpack, Figma, Trello, GitHub Projects, Slack  
+**Methodologies:** Scrum, Agile, CI/CD  
+**Languages:** JavaScript (ES6+), TypeScript, Python, Java, C#  
 
-I also took on a solo project centered around dogs. Similar to the Rick and Morty web page, I used React, Redux, and pure CSS for frontend development. On the backend, I implemented Express.js and Sequelize. This project allowed me to further enhance my skills and knowledge as a developer.
+---
 
-### E-Commerce Project
+## 🚀 Projects
 
-Recently, I had the opportunity to work on an exciting e-commerce project called Bodu Games. On the backend, we leveraged Express, Node.js, and Sequelize to handle data and business logic. For the frontend, we used Vite + React, Redux, and Chakra UI, complemented by pure CSS. The collaborative effort taught me the value of teamwork and communication in a development environment.
+### **NS Plus – Nassi–Shneiderman Diagram Editor**
+*Aug. 2024 – Nov. 2024*  
 
-## Goals and Aspirations 🌟
+- Developed features using **JavaScript, HTML, and CSS**, following specific designs from **Figma**.  
+- Managed collaborative development through **GitHub Projects**, implementing agile methodologies to track tasks and project progress.  
+- Actively participated in **Pair Programming** sessions and code reviews, contributing to code quality through **Pull Requests**.  
+- Practiced effective collaborative development using **Git** version control and team workflows.  
 
-I am actively seeking my first programming job to apply and expand my expertise. My journey as a developer has been incredible so far, and I am eager to continue learning, growing, and contributing to meaningful projects. I'm open to new opportunities and challenges that allow me to showcase my skills and contribute to innovative solutions.
+### **Mobile App – Food Purchase**
+*Aug. 2024 – Nov. 2024*  
 
-## Get in Touch 📞
+Development of a mobile food marketplace application | ORT Argentina Academic Project (1 week) | Team of 5 developers  
+- Developed a mobile application for buying and selling food using **Kotlin** and **Jetpack Compose**, following specific designs from **Figma**.  
+- Managed collaborative development through **GitHub Projects**, implementing agile methodologies to track tasks and project progress.  
+- Actively participated in **Pair Programming** sessions and code reviews, contributing to code quality through **Pull Requests**.  
+- Practiced effective collaborative development using **Git** version control and team workflows.  
 
-I'm excited to connect with fellow developers, potential employers, and collaborators. Whether you want to discuss a project or just say hi, feel free to reach out to me through the following channels:
+### **Bodu Games – E-commerce Platform**
+*July. 2023 - Aug. 2023*
 
-Email: nahuellescano1012@gmail.com
+* Implemented Mercado Pago integration as a payment gateway, developing the connection between the frontend and backend Developed the backend using Node.js, Express, and Sequelize for data management and business logic Contributed to the frontend with React, Redux, and Chakra UI, including the development of custom error pages.
+* Participated in weekly sprints, presenting project progress, pair programming sessions, and code reviews Used Figma for interface design and draw.io for database modeling Worked under agile methodologies in a multidisciplinary team, using Git for version control.
 
-LinkedIn: [Nahuel Lescano](https://www.linkedin.com/in/nahuel-lescano-906a2618b/ "LinkedIn Profile")
-<!--Portfolio: yourportfolio.com-->
-Thank you for visiting my GitHub profile. Happy coding! 😄
-<!--
-**NahuelLescano/NahuelLescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Dogs App**
+*June. 2023 - July. 2023*
 
-Here are some ideas to get you started:
+* Developed a comprehensive web application that allows visualizing and managing detailed information about dog breeds Implemented the frontend using React and Redux, with responsive design using pure CSS Built a REST API with Express.js, designing optimized routes and efficient data schemas. Managed the database and its relationships using Sequelize as ORM Successfully integrated data from an external API with the local database Developed skills in interface design and database query optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Rick and Morty Web App**
+*April. 2023 - May. 2023*
+
+* Developed an interactive web application based on the Rick & Morty series, integrating an external API Implemented the frontend using React and Redux, with responsive and styled design using pure CSS Built a REST API with Express.js for data management and business logic.
+* Designed and administered the database using Sequelize as ORM Integrated and applied fundamental full stack web development concepts such as state management, dynamic routes, and data handling Consolidated knowledge in frontend and backend development through a complete practical project.
+
+---
+
+## 🌟 Goals & Aspirations
+I’m seeking opportunities to contribute as a **Frontend or Full Stack Developer** in projects where I can combine my technical skills with my passion for creating high-quality user experiences. My focus is on **React.js development**, performance optimization, and clean architecture.
+
+---
+
+## 📬 Get in Touch
+- **Email:** nahuellescano1012@gmail.com  
+- **LinkedIn:** [Nahuel Lescano](https://www.linkedin.com/in/nahuel-lescano-906a2618b/)  
+- **Portfolio:** [portfolio-nahuel-lescano.vercel.app](https://portfolio-nahuel-lescano.vercel.app/)  
+- **GitHub:** [NahuelLescano](https://github.com/NahuelLescano)  
+
+💡 *Always open to collaborating on innovative projects and learning from fellow developers.*
+
+---
 
